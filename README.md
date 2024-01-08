@@ -4,7 +4,7 @@
 <p align="center">
   <kbd>
     <br>
-    <a href="https://www.blendermarket.com/products/favourite-modifiers">Get it on BlenderMarket</a>
+    <a href="https://www.blendermarket.com/products/favourite-modifiers">Get it on enderMarket</a>
     <br>
     <br>
   </kbd>
@@ -23,7 +23,5 @@ Organize and customize your Add Modifier menu, keeping your preferred modifiers 
 - **Save time and effort:** No more searching for modifiers; Favourite Modifiers brings them directly to you.
 
 ---
-
-**Note:** Favourite Modifiers is available on BlenderMarket. Click the badge above to download and install the addon.
 
 https://github.com/Jishnu-jithu/favourite-modifiers/assets/145359279/cbe20601-7a21-477b-b05f-521040dadd15
