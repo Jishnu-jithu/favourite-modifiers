@@ -4,7 +4,7 @@
 <p align="center">
   <kbd>
     <br>
-    <a href="https://www.blendermarket.com/products/favourite-modifiers">Get it on enderMarket</a>
+    <a href="https://www.blendermarket.com/products/favourite-modifiers">Get it on BlenderMarket</a>
     <br>
     <br>
   </kbd>
